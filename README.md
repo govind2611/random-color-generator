@@ -16,6 +16,6 @@ Fast and simple app made using ```HTML/CSS and JavaScript```.
 
 Use now to generate random colours and get their hex code.
 
-<h3 align="center">WebPage Link - <a href="https://amanraj1608.github.io/Random-colour-palettes/">Here</a>.</h3>
+<h3 align="center">WebPage Link - <a href="https://govind2611.github.io/random-color-generator/">Here</a>.</h3>
 
 ---
